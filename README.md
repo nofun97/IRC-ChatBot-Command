@@ -1,2 +1,3 @@
 # IRC-ChatBot-Command
-An IRC ChatBot that runs given commands
+A very simple IRC Chat Bot that runs given commands
+Made just for fun
